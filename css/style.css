@@ -154,16 +154,27 @@ img {
     .steps .col,
     .why-us .col-left,
     .why-us .col-right {
-        width: 90%;
+        width: 95%;
     }
 
     .col p {
         font-size: 1.4rem;
     }
 
+    h2 {
+        font-size: 2.5rem;
+    }
+
+    h3 {
+        font-size: 2rem;
+    }
+
     .why-us .container {
         background-color: #222222;
+        margin-block: -3em;
+        padding-block: 3em;
     }
+
 
 
 }
